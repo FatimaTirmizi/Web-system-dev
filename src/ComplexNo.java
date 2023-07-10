@@ -5,7 +5,7 @@ public class ComplexNo {
     private int imgPart;
 
     public ComplexNo(){
-gi
+
         realPart = 0;
         imgPart = 0;
 
